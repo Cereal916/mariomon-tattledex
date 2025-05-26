@@ -152,5 +152,8 @@
       }
     }
   },
-  "defaultProject": "pokedex"
+  "defaultProject": "pokedex",
+  "cli": {
+    "analytics": "26eed298-dde4-48a1-82f5-423dec36e635"
+  }
 }
